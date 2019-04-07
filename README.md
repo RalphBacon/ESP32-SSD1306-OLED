@@ -23,7 +23,7 @@ I've included the SSD1306 Data Sheet in my GitHub for anyone eager to delve deep
 
 ### LINKS
 
-Where I got it from (on offer until some time in April 2019):   
+Where I got it from - UK and China (on offer from China Warehouse until some time in April 2019):   
 https://www.banggood.com/Wemos-ESP32-OLED-Module-For-Arduino-ESP32-OLED-WiFi-Bluetooth-Dual-ESP-32-ESP-32S-ESP8266-p-1148119.html?utm_source=BG-UK-Affiliate&utm_medium=Youtube&utm_campaign=25129675&utm_content=3897&p=FQ040729393382015118
 
 All about this ESP32 board with OLED:  
