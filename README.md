@@ -38,6 +38,9 @@ https://github.com/ThingPulse/esp8266-oled-ssd1306
 Just found this useful website, how to implement the ThingPulse library:  
 https://github.com/FablabTorino/AUG-Torino/wiki/Wemos-Lolin-board-(ESP32-with-128x64-SSD1306-I2C-OLED-display)
 
+Comparison of ESP8266 vs ESP32:  
+https://makeradvisor.com/esp32-vs-esp8266/
+
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
 ### My channel and blog are here:  
