@@ -2,9 +2,10 @@
 A fast processor, Arduino IDE compatible, with an inbuilt SSD1306 128 x 64 OLED screen
 
 ### See https://wwww.youtube.com/ralphbacon video #140
-#### (Direct link to video: )
+#### (Direct link to video: https://youtu.be/_hqUOYTitVA)
 
 ### This video is sponsored by LCSC Electronics, China's leading electronics components supplier
+#### See video: https://www.youtube.com/watch?v=s913_7JXq4w&t=402s  
 #### Shop Online: https://lcsc.com
 ```
 New Warehouse under construction
