@@ -1,7 +1,7 @@
 # ESP32 SSD1306 OLED
 A fast processor, Arduino IDE compatible, with an inbuilt SSD1306 128 x 64 OLED screen
 
-### See https://wwww.youtube.com/ralphbacon video #140
+### See https://www.youtube.com/ralphbacon video #140
 #### (Direct link to video: https://youtu.be/_hqUOYTitVA)
 
 ### This video is sponsored by LCSC Electronics, China's leading electronics components supplier
